@@ -132,7 +132,7 @@ export default function Home() {
           </div>
           <div className="links">
             {/* KENDİ LİNKLERİNİZİ BURAYA YAPIŞTIRIN */}
-            <a href="#" target="https://kick.com/witchypurple/about" className="link kick">
+            <a href="#" target="https://kick.com/witchypurple" className="link kick">
               <i className="fa-brands fa-kick"></i> Kick Canlı Yayın
             </a>
             <a href="https://www.youtube.com/@witchypurple" target="_blank" className="link youtube">
